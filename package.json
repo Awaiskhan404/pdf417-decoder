@@ -1,15 +1,18 @@
 {
-  "name": "js-zxing-pdf417",
-  "version": "0.0.3",
-  "description": "Javascript port of the ZXing's PDF417 module.",
-  "keywords": ["pdf417", "OCR", "zxing"],
+  "name": "pdf417-decoder",
+  "version": "0.0.1",
+  "description": "Javascript port for PDF417 decoder",
+  "keywords": [
+    "pdf417",
+    "OCR"
+  ],
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PeculiarVentures/js-zxing-pdf417"
+    "url": "https://github.com/Awaiskhan404/pdf417-decoder.git"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "^0.4.5",
     "grunt-contrib-concat": "^0.5.0",
     "grunt-contrib-jshint": "^0.10.0",
     "grunt-contrib-uglify": "^0.6.0"
